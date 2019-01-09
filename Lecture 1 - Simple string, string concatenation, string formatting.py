@@ -8,11 +8,9 @@ print ("""Jane starts singing 'What if we rewrite the stars?
 print ("John sings too 'So why don’t we rewrite the stars?\nMaybe the world could be ours' ") #escape sequence for \n to move to a new line
 
 
-
 #String Concatenation
 print ("Welcome to" + "CSC1620") #"string1" + "string2" = "string1string2". Preferred concatenation method for experienced programmers
 print ("Python Programming", "with lab") #"string1", "string2" = "string1 string2". Note the spacing between the 2 strings.
-
 
 
 #String Formatting
